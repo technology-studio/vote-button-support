@@ -1,2 +1,2 @@
-# vote-button-support
+# Support
 Support repository for Vote button confluence macro. 
